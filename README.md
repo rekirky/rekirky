@@ -19,6 +19,8 @@ I'm passionate about software development, automation, and continuous learning.
   [LinkedIn](https://www.linkedin.com/in/jon-kirkwood/) | [rekirky@gmail.com](mailto:rekirky@gmail.com)
 - ⚡ Fun fact:  
   I automate everything—even my coffee brewing!
+- 🏡 Outside of work:  
+  I enjoy automating my household with [Home Assistant](https://www.home-assistant.io/), building smart home projects, and experimenting with IoT devices.
 
 ---
 
@@ -32,11 +34,12 @@ I'm passionate about software development, automation, and continuous learning.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Redgate Tools](https://img.shields.io/badge/-Redgate%20Tools-E60028?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L2c+PC9zdmc+&logoColor=white)
+![Redgate Tools](https://img.shields.io/badge/-Redgate%20Tools-E60028?style=flat&logoColor=white)
 ![Customer Support](https://img.shields.io/badge/-Customer%20Support-0078D4?style=flat&logo=windows&logoColor=white)
 ![Incident Management](https://img.shields.io/badge/-Incident%20Management-FFB900?style=flat&logo=azuredevops&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-6DB33F?style=flat&logo=opsgenie&logoColor=white)
 ![Knowledge Sharing](https://img.shields.io/badge/-Knowledge%20Sharing-FF9800?style=flat&logo=readthedocs&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 
 ---
 
