@@ -61,14 +61,6 @@ I'm passionate about software development, automation, and continuous learning.
 
 ---
 
-#### 📝 Latest Projects
-
-- [CoPilot Training and Testing](https://github.com/rekirky/CoPilot-Training-and-Testing)  
-  Exploring and documenting GitHub Copilot features in real-world workflows.
-- [Your Other Cool Project](https://github.com/rekirky/your-other-project)  
-  Short description of another project.
-
----
 
 <!--
 **rekirky/rekirky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
