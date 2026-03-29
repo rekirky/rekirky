@@ -65,9 +65,9 @@ I enjoy solving complex problems, building efficient workflows, and experimentin
 
 #### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rekirky&show_icons=true&theme=github_dark&cache_seconds=86400)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rekirky&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekirky&layout=compact&theme=github_dark&cache_seconds=86400)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rekirky&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rekirky&theme=github-dark)
 
