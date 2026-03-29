@@ -1,70 +1,78 @@
 ### Hi there 👋 I'm Jon Kirkwood (rekirky)
 
-Welcome to my GitHub profile!  
-I'm passionate about software development, automation, and continuous learning.
+Technical Support Engineer with a strong focus on SQL Server, database DevOps, and automation.  
+I enjoy solving complex problems, building efficient workflows, and experimenting with self-hosted tech.
 
 ---
 
 #### 🚀 About Me
 
 - 🔭 I’m currently working on:  
-  Exploring AI-assisted development, DevOps automation, and cloud-native solutions.
+  Database DevOps, SQL automation, and self-hosted tooling (Unraid, Docker, Home Assistant)
+
 - 🌱 I’m currently learning:  
-  Advanced GitHub Actions, TypeScript, and AI/ML integration in apps.
+  AI-assisted workflows, LLM integrations, and improving developer productivity pipelines
+
 - 👯 I’m looking to collaborate on:  
-  Open source tools, developer productivity projects, and technical writing.
+  Developer tooling, automation projects, and open-source utilities
+
 - 💬 Ask me about:  
-  Git, CI/CD, .NET, Python, or anything DevOps!
+  SQL Server, Flyway, Redgate tools, Docker, CI/CD, or deep-dive troubleshooting
+
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/jon-kirkwood/) | [rekirky@gmail.com](mailto:rekirky@gmail.com)
+
 - ⚡ Fun fact:  
-  I automate everything—even my coffee brewing!
-- 🏡 Outside of work:  
-  I enjoy automating my household with [Home Assistant](https://www.home-assistant.io/), building smart home projects, and experimenting with IoT devices.
+  I automate everything — home, servers, and workflows
+
+---
+
+#### 🧪 Projects & Labs
+
+- 🏠 Home Lab (Unraid, Docker, reverse proxies, Cloudflare tunnels)
+- 🤖 AI experiments (Open WebUI, Ollama, workflow automation)
+- 🗄️ Database DevOps demos (Flyway, CI/CD pipelines, SQL automation)
+- 🔧 Self-hosted tools and infrastructure experiments
 
 ---
 
 #### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Flyway](https://img.shields.io/badge/-Flyway-CC0200?style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Redgate Tools](https://img.shields.io/badge/-Redgate%20Tools-E60028?style=flat&logoColor=white)
-![Customer Support](https://img.shields.io/badge/-Customer%20Support-0078D4?style=flat&logo=windows&logoColor=white)
-![Incident Management](https://img.shields.io/badge/-Incident%20Management-FFB900?style=flat&logo=azuredevops&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-6DB33F?style=flat&logo=opsgenie&logoColor=white)
-![Knowledge Sharing](https://img.shields.io/badge/-Knowledge%20Sharing-FF9800?style=flat&logo=readthedocs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Unraid](https://img.shields.io/badge/-Unraid-F15A2C?style=flat&logo=linux&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 
 ---
 
 #### 💼 Professional Experience
 
-- 🏢 **Technical Support Engineer at Redgate** (4 years)
-  - SQL Server database management and automation
-  - Advanced troubleshooting and root cause analysis
-  - Customer communication and technical support
-  - Incident and escalation management
-  - Writing technical documentation and knowledge base articles
-  - Supporting and automating with Redgate tools
-  - PowerShell scripting for automation
-  - Collaborating with development and product teams
+- 🏢 Technical Support Engineer @ Redgate (5+ years)  
+  - SQL Server and database DevOps expertise  
+  - Advanced troubleshooting and root cause analysis  
+  - Automation using PowerShell and CI/CD pipelines  
+  - Supporting Redgate tooling (Flyway, SQL Toolbelt, Monitor, TDM)  
+  - Collaborating closely with engineering and product teams  
 
 ---
 
 #### 📈 GitHub Stats
 
-![rekirky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekirky&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekirky&layout=compact&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rekirky&show_icons=true&theme=github_dark&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekirky&layout=compact&theme=github_dark&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rekirky&theme=github-dark)
 
 ---
 
-
 <!--
-**rekirky/rekirky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rekirky/rekirky** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
