@@ -27,6 +27,13 @@ I enjoy solving complex problems, building efficient workflows, and experimentin
 
 ---
 
+#### 🎓 Education
+- **Master of Data Science** (MDataSc)
+- **Graduate Certificate of Data Science** (GradCertDataSc)
+- **Bachelor of Technology/Business – Information Systems**, Major in Data Analytics (BBusInfSys)
+
+---
+
 #### 🧪 Projects & Labs
 
 - 🏠 Home Lab (Unraid, Docker, reverse proxies, Cloudflare tunnels)
